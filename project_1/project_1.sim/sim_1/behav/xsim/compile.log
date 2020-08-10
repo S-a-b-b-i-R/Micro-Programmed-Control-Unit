@@ -1,0 +1,26 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/Class Lectures/6th Sem/Hardware Design/cpu/Dmem.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Dmem
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/Class Lectures/6th Sem/Hardware Design/cpu/alu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module alu
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/Class Lectures/6th Sem/Hardware Design/cpu/cumem.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cumem
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/Class Lectures/6th Sem/Hardware Design/cpu/dbus.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dbus
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/Class Lectures/6th Sem/Hardware Design/cpu/decode.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module decode
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/Class Lectures/6th Sem/Hardware Design/cpu/icache.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module icache
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/Class Lectures/6th Sem/Hardware Design/cpu/minitop.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module minitop
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/Class Lectures/6th Sem/Hardware Design/cpu/mpc.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mpc
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/Class Lectures/6th Sem/Hardware Design/cpu/pc.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pc
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/Class Lectures/6th Sem/Hardware Design/cpu/psw.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module psw
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/Class Lectures/6th Sem/Hardware Design/cpu/register.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module register
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/Class Lectures/6th Sem/Hardware Design/cpu/test_top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module test_top
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/Class Lectures/6th Sem/Hardware Design/FPGA/project_1/project_1.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

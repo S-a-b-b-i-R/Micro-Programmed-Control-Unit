@@ -1,0 +1,35 @@
+Vivado Simulator 2018.3
+Copyright 1986-1999, 2001-2018 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2018.3/bin/unwrapped/win64.o/xelab.exe -wto a8208e68a227472d96a1a937a2a5092a --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot test_top_behav xil_defaultlib.test_top xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+WARNING: [VRFC 10-3091] actual bit length 16 differs from formal bit length 32 for port 'M0_out' [G:/Class Lectures/6th Sem/Hardware Design/cpu/test_top.v:41]
+WARNING: [VRFC 10-3091] actual bit length 16 differs from formal bit length 32 for port 'M1_out' [G:/Class Lectures/6th Sem/Hardware Design/cpu/test_top.v:42]
+WARNING: [VRFC 10-3091] actual bit length 16 differs from formal bit length 32 for port 'M2_out' [G:/Class Lectures/6th Sem/Hardware Design/cpu/test_top.v:43]
+WARNING: [VRFC 10-3091] actual bit length 16 differs from formal bit length 32 for port 'M3_out' [G:/Class Lectures/6th Sem/Hardware Design/cpu/test_top.v:44]
+WARNING: [VRFC 10-3091] actual bit length 16 differs from formal bit length 32 for port 'M4_out' [G:/Class Lectures/6th Sem/Hardware Design/cpu/test_top.v:45]
+WARNING: [VRFC 10-3091] actual bit length 16 differs from formal bit length 32 for port 'M5_out' [G:/Class Lectures/6th Sem/Hardware Design/cpu/test_top.v:46]
+WARNING: [VRFC 10-3091] actual bit length 32 differs from formal bit length 16 for port 'M0_out' [G:/Class Lectures/6th Sem/Hardware Design/cpu/minitop.v:154]
+WARNING: [VRFC 10-3091] actual bit length 32 differs from formal bit length 16 for port 'M1_out' [G:/Class Lectures/6th Sem/Hardware Design/cpu/minitop.v:155]
+WARNING: [VRFC 10-3091] actual bit length 32 differs from formal bit length 16 for port 'M2_out' [G:/Class Lectures/6th Sem/Hardware Design/cpu/minitop.v:156]
+WARNING: [VRFC 10-3091] actual bit length 32 differs from formal bit length 16 for port 'M3_out' [G:/Class Lectures/6th Sem/Hardware Design/cpu/minitop.v:157]
+WARNING: [VRFC 10-3091] actual bit length 32 differs from formal bit length 16 for port 'M4_out' [G:/Class Lectures/6th Sem/Hardware Design/cpu/minitop.v:158]
+WARNING: [VRFC 10-3091] actual bit length 32 differs from formal bit length 16 for port 'M5_out' [G:/Class Lectures/6th Sem/Hardware Design/cpu/minitop.v:159]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.pc
+Compiling module xil_defaultlib.icache
+Compiling module xil_defaultlib.decode
+Compiling module xil_defaultlib.mpc
+Compiling module xil_defaultlib.cumem
+Compiling module xil_defaultlib.psw
+Compiling module xil_defaultlib.Dmem
+Compiling module xil_defaultlib.dbus
+Compiling module xil_defaultlib.register
+Compiling module xil_defaultlib.alu
+Compiling module xil_defaultlib.minitop
+Compiling module xil_defaultlib.test_top
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot test_top_behav
